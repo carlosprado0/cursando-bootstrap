@@ -5,3 +5,8 @@
 }
 
 /*# sourceMappingURL=estilo.css.map */
+.card-body ul{
+  display: flex;
+  justify-content: baseline;
+  list-style: none;
+}
